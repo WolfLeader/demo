@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+   <declare-styleable name="BorderTextView">
+       <attr name="isBorderTextView" format="boolean" /><!--是否设置为圆角的TextView  -->
+       <attr name="borderWidth" format="integer" />
+       <attr name="borderColor" format="color" />
+       <attr name="roundSize" format="integer" />
+       <attr name="borderTextViewBackGround" format="color" /><!-- 背景的颜色 -->
+   </declare-styleable>
+    
+</resources>
